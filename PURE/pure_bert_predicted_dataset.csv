@@ -1,0 +1,321 @@
+Requirement Text,Label,predicted_label
+The system shall allow patients to book appointments online.,FR,FR
+The application should load the patient dashboard within 3 seconds.,NFR,NFR
+The software shall store patient medical records securely.,FR,FR
+The system must comply with HIPAA regulations.,NFR,NFR
+Users shall be able to update their personal information.,FR,FR
+The platform should be available 99.9% of the time.,NFR,NFR
+The system shall provide medication reminders to patients.,FR,FR
+The application should support encryption of data at rest and in transit.,NFR,NFR
+Doctors shall access patient histories through the system.,FR,FR
+The interface should be user-friendly and intuitive.,NFR,NFR
+The system shall generate billing invoices automatically.,FR,FR
+"The application should handle up to 10,000 concurrent users.",NFR,NFR
+The software shall integrate with existing EHR systems.,FR,NFR
+The response time for any request should not exceed 2 seconds.,NFR,NFR
+Patients shall be able to view their test results online.,FR,FR
+The system should be compatible with major web browsers.,NFR,NFR
+The application shall support multi-factor authentication.,NFR,FR
+Users shall receive notifications for upcoming appointments.,FR,FR
+The platform should ensure data redundancy and backups.,NFR,NFR
+The system shall allow healthcare providers to prescribe medications electronically.,FR,FR
+The application should adhere to WCAG 2.1 accessibility standards.,NFR,NFR
+Patients shall be able to communicate with their doctors via secure messaging.,FR,FR
+The system should support mobile and desktop devices.,NFR,NFR
+The software shall log all user activities for auditing purposes.,NFR,NFR
+The platform shall provide analytics dashboards for administrators.,FR,NFR
+The application should minimize downtime during updates.,NFR,NFR
+Users shall be able to reset their passwords securely.,FR,NFR
+The system should implement role-based access control.,NFR,NFR
+The software shall allow for customization of user profiles.,FR,FR
+The platform should support multilingual interfaces.,NFR,NFR
+Patients shall be able to upload and share medical documents.,FR,FR
+The application should integrate with third-party payment gateways securely.,NFR,NFR
+The system shall provide real-time chat support.,FR,FR
+The interface should be designed for scalability.,NFR,NFR
+Healthcare providers shall be able to schedule surgeries through the system.,FR,FR
+The application should have a disaster recovery plan in place.,NFR,NFR
+Users shall receive confirmation emails upon successful actions.,FR,FR
+The system should optimize database queries for performance.,NFR,NFR
+The software shall support biometric authentication methods.,NFR,FR
+Patients shall have access to their vaccination records.,FR,FR
+The platform should ensure compatibility with wearable health devices.,NFR,NFR
+The system shall facilitate telemedicine consultations.,FR,FR
+The application should enforce strong password policies.,NFR,NFR
+Users shall be able to download their medical history.,FR,FR
+The system should support data migration from legacy systems.,NFR,NFR
+Healthcare administrators shall manage user roles and permissions.,FR,FR
+The application should have a consistent design language.,NFR,NFR
+Patients shall receive automated follow-up reminders.,FR,FR
+The system should utilize cloud infrastructure for scalability.,NFR,NFR
+The software shall provide audit trails for all transactions.,NFR,NFR
+Doctors shall access patient data through secure portals.,FR,NFR
+The application should ensure high availability and uptime.,NFR,NFR
+Users shall be able to search for specialists within the network.,FR,FR
+The system should implement load balancing mechanisms.,NFR,NFR
+Patients shall access educational resources through the platform.,FR,FR
+The application should undergo regular security assessments.,NFR,NFR
+Healthcare providers shall update patient records in real-time.,FR,FR
+The system should support data analytics and reporting.,NFR,NFR
+Users shall have the ability to customize dashboard views.,FR,FR
+The application should integrate with electronic prescribing systems.,NFR,NFR
+Patients shall receive secure access to their lab results.,FR,FR
+The system should be designed for easy maintenance and updates.,NFR,NFR
+Doctors shall schedule and manage their availability.,FR,FR
+The application should provide data encryption standards compliant with industry norms.,NFR,NFR
+Users shall be able to provide feedback through the platform.,FR,FR
+The system should support automated data backups.,NFR,NFR
+Patients shall be able to cancel or reschedule appointments online.,FR,FR
+The application should monitor system performance metrics.,NFR,NFR
+Healthcare staff shall generate and view patient discharge summaries.,FR,FR
+The system should be resilient to cyber threats and vulnerabilities.,NFR,NFR
+Users shall receive alerts for critical health notifications.,FR,FR
+The application should facilitate integration with laboratory systems.,NFR,NFR
+Patients shall access mental health resources through the platform.,FR,FR
+The system should employ redundancy to prevent data loss.,NFR,NFR
+Doctors shall access clinical decision support tools within the system.,FR,FR
+The application should adhere to international data protection standards.,NFR,NFR
+Users shall be able to view their billing history.,FR,FR
+The system should provide real-time data synchronization across devices.,NFR,NFR
+Patients shall participate in telehealth sessions via the platform.,FR,FR
+The application should support high-definition video conferencing.,NFR,NFR
+Healthcare providers shall receive training on using the system.,FR,FR
+The system should include monitoring tools for performance tracking.,NFR,NFR
+Users shall be able to set personal health goals within the application.,FR,FR
+The application should ensure compatibility with various operating systems.,NFR,NFR
+Patients shall receive personalized health recommendations.,FR,FR
+The system should optimize storage usage through efficient data management.,NFR,NFR
+Doctors shall have access to medical imaging within the system.,FR,NFR
+The application should support automated software updates.,NFR,NFR
+Users shall be able to share their health data with authorized parties.,FR,FR
+The system should implement robust firewall protections.,NFR,NFR
+Patients shall be able to rate and review healthcare services.,FR,FR
+The application should provide API access for third-party integrations.,NFR,NFR
+Healthcare administrators shall generate compliance reports.,FR,FR
+The system should support containerization for deployment flexibility.,NFR,NFR
+Users shall have access to secure document sharing features.,FR,NFR
+The application should utilize machine learning for predictive analytics.,NFR,NFR
+Patients shall be able to track their fitness and health metrics.,FR,FR
+The system should support automated scaling based on demand.,NFR,NFR
+Doctors shall receive notifications for patient updates.,FR,FR
+The application should ensure data integrity through validation mechanisms.,NFR,NFR
+Users shall customize notification preferences.,FR,FR
+The system should provide a sandbox environment for testing new features.,NFR,NFR
+Patients shall have access to a symptom checker tool.,FR,FR
+The application should employ load testing to ensure performance under stress.,NFR,NFR
+Healthcare providers shall access training materials within the system.,FR,NFR
+The system should use caching strategies to improve load times.,NFR,NFR
+Users shall receive newsletters and updates via email.,FR,FR
+The application should comply with international medical standards.,NFR,NFR
+Patients shall be able to join support groups through the platform.,FR,FR
+The system should utilize microservices architecture for modularity.,NFR,NFR
+Doctors shall have access to patient appointment histories.,FR,FR
+The application should implement secure coding practices.,NFR,NFR
+Users shall be able to export their health data in various formats.,FR,FR
+The system should support real-time collaboration between healthcare providers.,NFR,NFR
+Patients shall receive discharge instructions through the application.,FR,FR
+The application should undergo regular performance benchmarking.,NFR,NFR
+Healthcare administrators shall manage inventory through the system.,FR,FR
+The system should support geolocation services for locating nearby clinics.,NFR,FR
+Users shall have access to a help center within the application.,FR,FR
+The application should integrate with national health databases.,NFR,NFR
+Patients shall receive automated appointment reminders via SMS and email.,FR,FR
+The system should implement continuous integration and deployment pipelines.,NFR,NFR
+Doctors shall utilize electronic signatures for prescriptions.,FR,FR
+The application should monitor and log security incidents.,NFR,NFR
+Users shall be able to schedule recurring appointments.,FR,FR
+The system should ensure compatibility with legacy hardware.,NFR,NFR
+Patients shall access dietary and nutrition plans through the platform.,FR,FR
+The application should use load balancing to distribute traffic efficiently.,NFR,NFR
+Healthcare providers shall update vaccination records within the system.,FR,FR
+The system should implement intrusion detection systems.,NFR,NFR
+Users shall receive personalized dashboard widgets.,FR,FR
+The application should support virtualization for deployment environments.,NFR,NFR
+Patients shall be able to request prescription refills online.,FR,FR
+The system should employ data anonymization techniques for research purposes.,NFR,NFR
+Doctors shall access telemedicine tools integrated within the platform.,FR,NFR
+The application should ensure minimal downtime during maintenance.,NFR,NFR
+Users shall have access to an audit log of their activities.,FR,FR
+The system should support high availability configurations.,NFR,NFR
+Patients shall view their allergy information within the application.,FR,FR
+The application should utilize secure APIs for external integrations.,NFR,NFR
+Healthcare providers shall receive alerts for critical patient conditions.,FR,NFR
+The system should support automated testing frameworks.,NFR,NFR
+Users shall be able to set privacy preferences for their data.,FR,NFR
+The application should provide real-time synchronization across devices.,NFR,NFR
+Patients shall access rehabilitation resources through the platform.,FR,FR
+The system should implement rate limiting to prevent abuse.,NFR,NFR
+Doctors shall use decision support systems for diagnostics.,FR,NFR
+The application should support container orchestration tools.,NFR,NFR
+Users shall receive customized health tips based on their data.,FR,FR
+The system should ensure data consistency across all modules.,NFR,NFR
+Patients shall participate in virtual health workshops via the application.,FR,FR
+The application should integrate with electronic lab systems securely.,NFR,NFR
+Healthcare administrators shall manage user access rights within the system.,FR,NFR
+The system should utilize redundant network paths to ensure connectivity.,NFR,NFR
+Users shall have access to a personalized health dashboard.,FR,NFR
+The application should support automated deployment processes.,NFR,NFR
+Patients shall track their medication adherence through the platform.,FR,FR
+The system should employ secure storage solutions for sensitive data.,NFR,NFR
+Doctors shall access patient consent forms electronically.,FR,FR
+The application should perform regular vulnerability scans.,NFR,NFR
+Users shall receive timely updates on their treatment plans.,FR,NFR
+The system should support high-throughput data processing.,NFR,NFR
+Patients shall engage in virtual counseling sessions via the application.,FR,FR
+The application should integrate with imaging and radiology systems.,NFR,NFR
+Healthcare providers shall manage patient referrals within the system.,FR,FR
+The system should implement comprehensive logging for troubleshooting.,NFR,NFR
+Users shall access their insurance information through the platform.,FR,NFR
+The application should utilize scalable cloud services to handle variable loads.,NFR,NFR
+Patients shall receive tailored wellness programs through the application.,FR,FR
+The system should support automated scaling based on usage patterns.,NFR,NFR
+Doctors shall access patient lab results directly within the system.,FR,FR
+The application should ensure compatibility with various mobile devices.,NFR,NFR
+Users shall have the ability to share their health data with family members.,FR,FR
+The system should implement strong authentication mechanisms.,NFR,NFR
+Patients shall schedule follow-up visits through the platform.,FR,FR
+The application should support integration with national health information exchanges.,NFR,NFR
+Healthcare providers shall update treatment protocols within the system.,FR,FR
+The system should use redundancy to enhance fault tolerance.,NFR,NFR
+Users shall receive educational content based on their health profiles.,FR,FR
+The application should employ secure communication channels.,NFR,NFR
+Patients shall access their immunization records through the platform.,FR,FR
+The system should support high availability clusters.,NFR,NFR
+Doctors shall utilize the system for electronic health record management.,FR,NFR
+The application should implement data compression techniques to optimize storage.,NFR,NFR
+Users shall be able to customize their notification settings.,FR,FR
+The system should support automated resource provisioning.,NFR,NFR
+Patients shall track their physical therapy progress through the application.,FR,FR
+The application should ensure data integrity during transfers.,NFR,NFR
+Healthcare administrators shall manage compliance settings within the system.,FR,NFR
+The system should employ load testing to ensure reliability under stress.,NFR,NFR
+Users shall access a comprehensive FAQ section within the application.,FR,NFR
+The application should integrate with national patient registries securely.,NFR,NFR
+Patients shall receive automated wellness check-ins via the platform.,FR,FR
+The system should support microservices for modular functionality.,NFR,NFR
+Doctors shall access clinical guidelines directly within the system.,FR,FR
+The application should implement end-to-end encryption for all communications.,NFR,NFR
+Users shall be able to download health reports in PDF format.,FR,FR
+The system should utilize auto-scaling groups to manage traffic spikes.,NFR,NFR
+Patients shall participate in virtual fitness classes through the application.,FR,FR
+The application should support continuous monitoring for system health.,NFR,NFR
+Healthcare providers shall manage patient appointments through the system.,FR,FR
+The system should implement security best practices to prevent breaches.,NFR,NFR
+Users shall access personalized health insights based on their data.,FR,FR
+The application should support integration with third-party health apps.,NFR,NFR
+Patients shall receive reminders for preventive care screenings.,FR,FR
+The system should utilize distributed databases for scalability.,NFR,NFR
+Doctors shall update patient treatment plans electronically.,FR,FR
+The application should perform regular data integrity checks.,NFR,NFR
+Users shall have access to a secure messaging system within the platform.,FR,NFR
+The system should implement multi-region deployments for redundancy.,NFR,NFR
+Patients shall access chronic disease management tools through the application.,FR,FR
+The application should support automated failover mechanisms.,NFR,NFR
+Healthcare providers shall generate patient summaries within the system.,FR,FR
+The system should employ network segmentation for enhanced security.,NFR,NFR
+Users shall receive personalized diet and exercise plans.,FR,FR
+The application should support real-time data processing and analytics.,NFR,NFR
+Patients shall engage in virtual support groups via the platform.,FR,FR
+The system should ensure high data throughput for large file transfers.,NFR,NFR
+Doctors shall access patient billing information within the system.,FR,FR
+The application should implement secure coding standards to prevent vulnerabilities.,NFR,NFR
+Users shall be able to schedule annual physical exams through the platform.,FR,FR
+The system should support automated patch management.,NFR,NFR
+Patients shall access mental health assessments via the application.,FR,FR
+The application should use secure protocols for all data transmissions.,NFR,NFR
+Healthcare providers shall manage electronic referrals within the system.,FR,FR
+The system should support horizontal scaling to handle increased loads.,NFR,NFR
+Users shall receive health tips based on their activity data.,FR,FR
+The application should integrate with national prescription databases securely.,NFR,NFR
+Patients shall track their sleep patterns through the platform.,FR,FR
+The system should employ automated monitoring for system anomalies.,NFR,NFR
+Doctors shall utilize the system for remote patient monitoring.,FR,NFR
+The application should support high-resolution medical imaging displays.,NFR,NFR
+Users shall have access to a personalized wellness dashboard.,FR,FR
+The system should implement automated security updates.,NFR,NFR
+Patients shall access genetic testing results through the application.,FR,FR
+The application should support interoperability standards like HL7 and FHIR.,NFR,NFR
+Healthcare providers shall access telehealth scheduling tools within the system.,FR,FR
+The system should utilize secure token-based authentication.,NFR,NFR
+Users shall receive tailored exercise recommendations based on their health data.,FR,FR
+The application should support real-time synchronization of patient data.,NFR,NFR
+Patients shall participate in virtual health assessments via the platform.,FR,FR
+The system should implement data sharding for improved performance.,NFR,NFR
+Doctors shall access patient immunization schedules within the system.,FR,FR
+The application should ensure compliance with international cybersecurity standards.,NFR,NFR
+Users shall have the ability to request medical record transfers.,FR,FR
+The system should support automated data indexing for faster retrieval.,NFR,NFR
+Patients shall access nutritional counseling resources through the application.,FR,FR
+The application should employ machine learning algorithms for data analysis.,NFR,NFR
+Healthcare providers shall manage patient care plans within the system.,FR,FR
+The system should implement comprehensive access logging for security audits.,NFR,NFR
+Users shall receive customized health alerts based on their profiles.,FR,FR
+The application should support integration with wearable fitness trackers.,NFR,NFR
+Patients shall access holistic health resources through the platform.,FR,FR
+The system should utilize API gateways for secure service interactions.,NFR,NFR
+Doctors shall update patient immunization records electronically.,FR,FR
+The application should perform regular compliance checks against regulatory standards.,NFR,NFR
+Users shall be able to set and track personal health milestones.,FR,FR
+The system should support real-time data analytics for patient monitoring.,NFR,NFR
+Patients shall engage in virtual dietary consultations via the application.,FR,FR
+The application should ensure data portability for user exports.,NFR,NFR
+Healthcare providers shall access patient telehealth session histories.,FR,FR
+The system should implement robust data validation mechanisms.,NFR,NFR
+Users shall access a personalized medication schedule within the platform.,FR,FR
+The application should support high-availability database configurations.,NFR,NFR
+Patients shall receive automated wellness program enrollments.,FR,FR
+The system should employ encryption key management best practices.,NFR,NFR
+Doctors shall utilize the system for electronic referral management.,FR,FR
+The application should support containerized deployments for flexibility.,NFR,NFR
+Users shall receive proactive health maintenance reminders.,FR,NFR
+The system should implement secure data wiping for decommissioned hardware.,NFR,NFR
+Patients shall access personalized mental health resources through the application.,FR,FR
+The application should support continuous integration for rapid deployment.,NFR,NFR
+Healthcare providers shall manage patient follow-up schedules within the system.,FR,FR
+The system should utilize distributed caching to enhance performance.,NFR,NFR
+Users shall have access to a comprehensive health resource library.,FR,NFR
+The application should ensure compliance with GDPR for user data privacy.,NFR,NFR
+Patients shall track their hydration levels through the platform.,FR,FR
+The system should implement automated anomaly detection for security threats.,NFR,NFR
+Doctors shall access patient family medical histories within the system.,FR,FR
+The application should support seamless integration with hospital information systems.,NFR,NFR
+Users shall receive tailored health insights based on their genetic data.,FR,FR
+The system should employ fault-tolerant architecture to prevent downtime.,NFR,NFR
+Patients shall engage in virtual physical therapy sessions via the application.,FR,FR
+The application should support automated scaling based on user activity.,NFR,NFR
+Healthcare providers shall access patient allergy information within the system.,FR,FR
+The system should implement secure data transmission protocols.,NFR,NFR
+Users shall be able to schedule home healthcare visits through the platform.,FR,FR
+The application should support real-time collaboration tools for healthcare teams.,NFR,NFR
+Patients shall access chronic disease management tools through the application.,FR,FR
+The system should utilize secure cloud storage solutions.,NFR,NFR
+Doctors shall manage patient discharge processes within the system.,FR,FR
+The application should perform regular security audits and assessments.,NFR,NFR
+Users shall have access to personalized health journey maps.,FR,FR
+The system should support automated data replication across regions.,NFR,NFR
+Patients shall participate in virtual wellness challenges via the platform.,FR,FR
+The application should integrate with electronic pharmacy systems securely.,NFR,NFR
+Healthcare providers shall access patient behavioral health data within the system.,FR,FR
+The system should implement intrusion prevention systems.,NFR,NFR
+Users shall receive customized exercise plans based on their health data.,FR,FR
+The application should support high-throughput data ingestion for large datasets.,NFR,NFR
+Patients shall access personalized stress management resources through the application.,FR,FR
+The system should utilize automated certificate management for secure communications.,NFR,NFR
+Doctors shall access patient diagnostic imaging directly within the system.,FR,FR
+The application should ensure compliance with local healthcare regulations.,NFR,NFR
+Users shall have the ability to set health-related goals and track progress.,FR,FR
+The system should implement automated failover to backup systems.,NFR,NFR
+Patients shall engage in virtual nutritional counseling via the platform.,FR,FR
+The application should support integration with national health information networks.,NFR,NFR
+Healthcare providers shall manage patient immunization schedules within the system.,FR,FR
+The system should employ secure application development lifecycle practices.,NFR,NFR
+Users shall access a personalized health dashboard with real-time data.,FR,FR
+The application should support automated data cleansing processes.,NFR,NFR
+Patients shall receive personalized medication adherence support through the application.,FR,FR
+The system should utilize secure microservices for different functionalities.,NFR,NFR
+Doctors shall access patient lab test results directly within the system.,FR,FR
+The application should ensure data residency compliance based on user location.,NFR,NFR
+Users shall have access to a comprehensive symptom tracking tool.,FR,NFR
+The system should implement automated monitoring for performance metrics.,NFR,NFR
+Patients shall access personalized exercise regimens through the platform.,FR,FR
+The application should support secure integration with external health services.,NFR,NFR
