@@ -15,13 +15,11 @@ The following models were fine-tuned for the FR-NFR classification task:
 
 ## **Datasets**
 ### **Training Datasets**
-1. **PURE Dataset**:
-   - A dataset designed for requirements engineering tasks.
+1. - A dataset designed for requirements engineering tasks.
    - Includes annotated requirements labeled as FR and NFR.
    - https://fmt.isti.cnr.it/nlreqdataset/
 
-2. **PROMISE Dataset**:
-   - Another benchmark dataset in software requirements engineering.
+2. - Another benchmark dataset in software requirements engineering.
    - Widely used for classification tasks in the requirements engineering domain.
    - Sonali, Sonali; Thamada,  Srinivasarao (2024), “FR_NFR_dataset”, Mendeley Data, V1, doi: 10.17632/4ysx9fyzv4.1
 
